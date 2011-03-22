@@ -1,0 +1,11 @@
+He is in town.
+He is going to meet me for lunch.
+He will also meet my friend Akshaya.
+We are going to discuss the good old times.
+
+meet, discuss
+
+vocab = all the unique words appearing in the text file
+
+meet: “going to” “me for”  “will also” “my friend” “me in” “my enemy”
+meet: [going: 1, to: 1, me: 2, for: 1, will: 1.....] - len of vocab
